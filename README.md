@@ -1,2 +1,2 @@
 # data-struct-exercise-in-C
-C programming examples
+save some C programming examples when I'm learing Data Struct.
